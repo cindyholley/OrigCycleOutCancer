@@ -1,0 +1,32 @@
+/* Cindy Holley
+   11/7/2017 */ 
+  
+body {
+	color: #000000;						/*set text color to black*/
+	background-color: #FF9900;			/*set background-color to orange*/
+	font-family: Calibri, sansserif;	/*set font to Calibri or generic sans-serif*/
+}
+
+#wrapper {
+	width: 80%;					/*set content to 80% of page*/
+	margin: 0 auto 0 auto;		/**/
+}
+
+.floatleft {
+	float: left;				/*float image to the left*/
+	margin-right: 2%;			/*add 2% margin between image and content*/
+}
+
+.floatright {
+	float: right;				/*float image to the right*/
+	margin-left: 2%;			/*add 2% margin between image and content*/
+}
+
+nav ul {
+	list-style-type: none;		/*remove bullets from list*/
+}
+
+.boldtext, dt {
+	font-weight: bold;			/*set font to bold*/
+}
+  
